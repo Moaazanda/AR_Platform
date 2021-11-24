@@ -1,0 +1,43 @@
+newmtl Cylinder002SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Dirt_1.jpg
+Ni 1.00
+Ks 0.88 0.88 0.88
+Ns 1022.00
+newmtl FBXASC050SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Money_Trunk.png
+Ni 1.00
+Ks 0.95 0.95 0.95
+Ns 1022.00
+newmtl FBXASC050SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.24 0.24 0.24
+Ns 3.66
+newmtl Object002SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Rocks006_2K_Color.jpg
+bump  -bm 1 Rocks006_2K_Normal.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Rocks006_2K_Roughness.jpg
+Ns 1022.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
